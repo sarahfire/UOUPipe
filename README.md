@@ -1,2 +1,2 @@
 # UOUPipe
-A new idea of instant message application based on peer to peer network
+A peer-to-peer instant messaging application based on cryptocurrency mechanism。
